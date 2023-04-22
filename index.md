@@ -35,6 +35,7 @@ I am working in the field of arithmetic geometry, with my main interest lying in
 <hr>
 
 ## Teaching
+* Summer Term 23: [Lineare Algebra II](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=68943) (Teaching Assistant).
 * Winter Term 22/23: [Lineare Algebra I](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=64599) (Teaching Assistant).
 * Winter Term 22/23: [Oberseminar on Condensed Mathematics](/files/ws22/oberseminar/plan.pdf) (Organizer).
 
