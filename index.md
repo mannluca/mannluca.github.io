@@ -30,7 +30,7 @@ I am working in the field of arithmetic geometry, with my main interest lying in
   International Mathematics Research Notices (2022, [journal](https://doi.org/10.1093/imrn/rnac182)).
 
 * [Normal and Irreducible Adic Spaces, the Openness of Finite Morphisms and a Stein Factorization](https://arxiv.org/pdf/2005.06859.pdf). <br>
-  Preprint (2020, accepted at Nagoya Math Journal).
+  Preprint (2022, [journal](https://doi.org/10.1017/nmj.2022.40)).
 
 <hr>
 
