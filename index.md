@@ -7,12 +7,15 @@ Office: Room 301a
 
 Currently I am a post-doc in the working group of [Eugen Hellmann](https://www.uni-muenster.de/Arithm/hellmann/index.html). I completed my PhD at the [University of Bonn](https://www.math.uni-bonn.de/?language=en) under the supervision of [Peter Scholze](https://people.mpim-bonn.mpg.de/scholze/).
 
-Here is my [CV](/files/cv.pdf) (Updated: December 2022).
+Here is my [CV](/files/cv.pdf) (Last updated: July 2024).
 
 
 ## Research
 
 I am working in the field of arithmetic geometry, with my main interest lying in the geometric Langlands program. I am also interested in and apply methods from Clausen-Scholze's condensed mathematics.
+
+* [Descent for solid quasi-coherent sheaves on perfectoid spaces](https://arxiv.org/pdf/2403.01951). <br>
+  Preprint (2024).
 
 * [The 6-Functor Formalism for $\mathbb Z_\ell$- and $\mathbb Q_\ell$-Sheaves on Diamonds](https://arxiv.org/pdf/2209.08135.pdf). <br>
   Preprint (2022).
