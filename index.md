@@ -7,14 +7,17 @@ Office: Room 301a
 
 Currently I am a post-doc in the working group of [Eugen Hellmann](https://www.uni-muenster.de/Arithm/hellmann/index.html). I completed my PhD at the [University of Bonn](https://www.math.uni-bonn.de/?language=en) under the supervision of [Peter Scholze](https://people.mpim-bonn.mpg.de/scholze/).
 
-Here is my [CV](/files/cv.pdf) (Last updated: July 2024).
+Here is my [CV](/files/cv.pdf) (Last updated: Dec 2024).
 
 
 ## Research
 
 I am working in the field of arithmetic geometry, with my main interest lying in the geometric Langlands program. I am also interested in and apply methods from Clausen-Scholze's condensed mathematics.
 
-* [Descent for solid quasi-coherent sheaves on perfectoid spaces](https://arxiv.org/pdf/2403.01951). <br>
+* [6-Functor Formalisms and Smooth Representations](https://arxiv.org/pdf/2410.13038) (with Claudius Heyer). <br>
+  Preprint (2024).
+
+* [Descent for solid quasi-coherent sheaves on perfectoid spaces](https://arxiv.org/pdf/2403.01951) (with Johannes Anschütz). <br>
   Preprint (2024).
 
 * [The 6-Functor Formalism for $\mathbb Z_\ell$- and $\mathbb Q_\ell$-Sheaves on Diamonds](https://arxiv.org/pdf/2209.08135.pdf). <br>
@@ -38,6 +41,9 @@ I am working in the field of arithmetic geometry, with my main interest lying in
 <hr>
 
 ## Teaching
+* Winter Term 24/25: [Darstellungstheorie endlicher Gruppen](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=80477) (Teaching Assistant).
+* Winter Term 24/25: [Oberseminar on p-Adic Simpson and Sen Theory](/files/ws24/oberseminar/plan.pdf) (Co-Organizer).
+* Winter Term 23/24: [Kommutative Algebra](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=72776) (Teaching Assistant).
 * Summer Term 23: [Lineare Algebra II](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=68943) (Teaching Assistant).
 * Winter Term 22/23: [Lineare Algebra I](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=64599) (Teaching Assistant).
 * Winter Term 22/23: [Oberseminar on Condensed Mathematics](/files/ws22/oberseminar/plan.pdf) (Organizer).
