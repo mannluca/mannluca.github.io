@@ -14,6 +14,9 @@ Here is my [CV](/files/cv.pdf) (Last updated: Dec 2024).
 
 I am working in the field of arithmetic geometry, with my main interest lying in the geometric Langlands program. I am also interested in and apply methods from Clausen-Scholze's condensed mathematics.
 
+* [A 6-functor formalism for solid quasi-coherent sheaves on the Fargues-Fontaine curve](https://arxiv.org/pdf/2412.20968) (with Johannes Anschütz and Arthur-César Le Bras). <br>
+  Preprint (2024).
+
 * [6-Functor Formalisms and Smooth Representations](https://arxiv.org/pdf/2410.13038) (with Claudius Heyer). <br>
   Preprint (2024).
 
