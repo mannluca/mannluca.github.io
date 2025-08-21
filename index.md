@@ -44,6 +44,7 @@ I am working in the field of arithmetic geometry, with my main interest lying in
 <hr>
 
 ## Teaching
+* Summer Term 25: [Kristallographische Gruppen](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=84873) (Teaching Assistant).
 * Winter Term 24/25: [Darstellungstheorie endlicher Gruppen](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=80477) (Teaching Assistant).
 * Winter Term 24/25: [Oberseminar on p-Adic Simpson and Sen Theory](/files/ws24/oberseminar/plan.pdf) (Co-Organizer).
 * Winter Term 23/24: [Kommutative Algebra](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=72776) (Teaching Assistant).
