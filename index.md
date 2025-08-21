@@ -7,7 +7,7 @@ Office: Room 301a
 
 Currently I am a post-doc in the working group of [Eugen Hellmann](https://www.uni-muenster.de/Arithm/hellmann/index.html). I completed my PhD at the [University of Bonn](https://www.math.uni-bonn.de/?language=en) under the supervision of [Peter Scholze](https://people.mpim-bonn.mpg.de/scholze/).
 
-Here is my [CV](/files/cv.pdf) (Last updated: Dec 2024).
+Here is my [CV](/files/cv.pdf) (Last updated: Aug 2025).
 
 
 ## Research
