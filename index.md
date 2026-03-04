@@ -7,7 +7,7 @@ Office: Room 301a
 
 Currently I am a post-doc in the working group of [Eugen Hellmann](https://www.uni-muenster.de/Arithm/hellmann/index.html). I completed my PhD at the [University of Bonn](https://www.math.uni-bonn.de/?language=en) under the supervision of [Peter Scholze](https://people.mpim-bonn.mpg.de/scholze/).
 
-Here is my [CV](/files/cv.pdf) (Last updated: Aug 2025).
+Here is my [CV](/files/cv.pdf) (Last updated: Mar 2026).
 
 
 ## Research
@@ -23,8 +23,8 @@ I am working in the field of arithmetic geometry, with my main interest lying in
 * [Descent for solid quasi-coherent sheaves on perfectoid spaces](https://arxiv.org/pdf/2403.01951) (with Johannes Anschütz). <br>
   Preprint (2024).
 
-* [The 6-Functor Formalism for $\mathbb Z_\ell$- and $\mathbb Q_\ell$-Sheaves on Diamonds](https://arxiv.org/pdf/2209.08135.pdf). <br>
-  Preprint (2022).
+* [A 6-Functor Formalism for $\mathbb Z_\ell$- and $\mathbb Q_\ell$-Sheaves on Diamonds](https://arxiv.org/pdf/2209.08135.pdf). <br>
+  Research in the Mathematical Sciences (2026, [journal](https://doi.org/10.1007/s40687-026-00601-6)).
 
 * [p-adic sheaves on classifying stacks, and the p-adic Jacquet-Langlands correspondence](https://arxiv.org/pdf/2207.04073.pdf) (with David Hansen). <br>
   Preprint (2022).
@@ -44,6 +44,7 @@ I am working in the field of arithmetic geometry, with my main interest lying in
 <hr>
 
 ## Teaching
+* Winter Term 25/26: [Bruhat-Tits Theory](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=89998) (Lecturer).
 * Summer Term 25: [Kristallographische Gruppen](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=84873) (Teaching Assistant).
 * Winter Term 24/25: [Darstellungstheorie endlicher Gruppen](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=80477) (Teaching Assistant).
 * Winter Term 24/25: [Oberseminar on p-Adic Simpson and Sen Theory](/files/ws24/oberseminar/plan.pdf) (Co-Organizer).
