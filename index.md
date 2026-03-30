@@ -27,7 +27,7 @@ I am working in the field of arithmetic geometry, with my main interest lying in
   Research in the Mathematical Sciences (2026, [journal](https://doi.org/10.1007/s40687-026-00601-6)).
 
 * [p-adic sheaves on classifying stacks, and the p-adic Jacquet-Langlands correspondence](https://arxiv.org/pdf/2207.04073.pdf) (with David Hansen). <br>
-  Preprint (2022).
+  Journal of the Institute of Mathematics of Jussieu (2026, [journal](https://doi.org/10.1017/S1474748025101503)).
 
 * [A p-Adic 6-Functor Formalism in Rigid-Analytic Geometry](https://arxiv.org/pdf/2206.02022.pdf). <br>
   Preprint (2022, Ph.D. thesis).
