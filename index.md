@@ -14,6 +14,9 @@ Here is my [CV](/files/cv.pdf) (Last updated: Mar 2026).
 
 I am working in the field of arithmetic geometry, with my main interest lying in the geometric Langlands program. I am also interested in and apply methods from Clausen-Scholze's condensed mathematics.
 
+* [The categorical local Langlands conjecture](https://arxiv.org/pdf/2606.00983) (with David Hansen). <br>
+  Preprint (2026).
+
 * [A 6-functor formalism for solid quasi-coherent sheaves on the Fargues-Fontaine curve](https://arxiv.org/pdf/2412.20968) (with Johannes Anschütz and Arthur-César Le Bras). <br>
   Preprint (2024).
 
@@ -44,6 +47,7 @@ I am working in the field of arithmetic geometry, with my main interest lying in
 <hr>
 
 ## Teaching
+* Summer Term 26: [Seminar on the Integral Satake Isomorphism](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=93036) (Co-Organizer).
 * Winter Term 25/26: [Bruhat-Tits Theory](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=89998) (Lecturer).
 * Summer Term 25: [Kristallographische Gruppen](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=84873) (Teaching Assistant).
 * Winter Term 24/25: [Darstellungstheorie endlicher Gruppen](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=80477) (Teaching Assistant).
