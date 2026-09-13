@@ -1,24 +1,24 @@
-[Fachbereich Mathematik und Informatik FB10](https://www.uni-muenster.de/FB10/)<br>
-Einsteinstraße 62<br>
-48149 Münster<br>
-Germany<br>
+[Faculté des Sciences d’Orsay, Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/mathematics)<br>
+Building 307, rue Michel Magat<br>
+F-91405 Orsay Cedexr<br>
+France<br>
 Email: x@y where x=mann.lucas and y=uni-muenster.de<br>
-Office: Room 301a
+Office: Room 3O21
 
-Currently I am a post-doc in the working group of [Eugen Hellmann](https://www.uni-muenster.de/Arithm/hellmann/index.html). I completed my PhD at the [University of Bonn](https://www.math.uni-bonn.de/?language=en) under the supervision of [Peter Scholze](https://people.mpim-bonn.mpg.de/scholze/).
+Currently I am a postdoc at the [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/mathematics) and previously at the [University of Münster](https://www.uni-muenster.de/FB10/en/index.shtml). I completed my PhD at the [University of Bonn](https://www.math.uni-bonn.de/?language=en) under the supervision of [Peter Scholze](https://people.mpim-bonn.mpg.de/scholze/).
 
-Here is my [CV](/files/cv.pdf) (Last updated: Mar 2026).
+Here is my [CV](/files/cv.pdf) (Last updated: Sep 2026).
 
 
 ## Research
 
-I am working in the field of arithmetic geometry, with my main interest lying in the geometric Langlands program. I am also interested in and apply methods from Clausen-Scholze's condensed mathematics.
+I am working in the field of arithmetic geometry, with my main interest lying in the categorical local Langlands program. I am also interested in and apply methods from higher category theory, abstract sheaf theories and Clausen-Scholze's condensed mathematics.
 
 * [The categorical local Langlands conjecture](https://arxiv.org/pdf/2606.00983) (with David Hansen). <br>
   Preprint (2026).
 
 * [A 6-functor formalism for solid quasi-coherent sheaves on the Fargues-Fontaine curve](https://arxiv.org/pdf/2412.20968) (with Johannes Anschütz and Arthur-César Le Bras). <br>
-  Preprint (2024).
+   To appear in JAMS (2026).
 
 * [6-Functor Formalisms and Smooth Representations](https://arxiv.org/pdf/2410.13038) (with Claudius Heyer). <br>
   Preprint (2024).
