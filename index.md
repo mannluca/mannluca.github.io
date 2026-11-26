@@ -24,7 +24,7 @@ I am working in the field of arithmetic geometry, with my main interest lying in
   Preprint (2024).
 
 * [Descent for solid quasi-coherent sheaves on perfectoid spaces](https://arxiv.org/pdf/2403.01951) (with Johannes Anschütz). <br>
-  Preprint (2024).
+  To appear in Compositio (2024).
 
 * [A 6-Functor Formalism for $\mathbb Z_\ell$- and $\mathbb Q_\ell$-Sheaves on Diamonds](https://arxiv.org/pdf/2209.08135.pdf). <br>
   Research in the Mathematical Sciences (2026, [journal](https://doi.org/10.1007/s40687-026-00601-6)).
