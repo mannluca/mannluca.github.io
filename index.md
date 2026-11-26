@@ -1,6 +1,6 @@
 [Faculté des Sciences d’Orsay, Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/mathematics)<br>
 Building 307, rue Michel Magat<br>
-F-91405 Orsay Cedexr<br>
+F-91405 Orsay Cedex<br>
 France<br>
 Email: x@y where x=mann.lucas and y=uni-muenster.de<br>
 Office: Room 3O21
